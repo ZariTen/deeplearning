@@ -19,13 +19,15 @@
 
 ### Lessons
 
-Week 01 - Introduction [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/week_01/Week_01.pdf)
+Week 01 - Introduction [[Slide]](https://github.com/terrematte/deeplearning/blob/main/week_01/deeplearning_01.pdf)
  - Course Outline & Presentation
  - Google Colab Introduction [[Video]](https://www.loom.com/share/8a4f0d34b3cb4d9ea04b6dcf0b3d1aca)
  - Google Colab Cont. [[Video]](https://www.loom.com/share/d96cb0af7d9c4416bfe8145c93248a11)
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_01/Week%20%2301%20Task%2001%20-%20Functions%2C%20Context%20Managers%20and%20Decorators.ipynb) [Functions, Context Managers and Decorators](https://github.com/ivanovitchm/deeplearning/blob/main/week_01/Week%20%2301%20Task%2001%20-%20Functions%2C%20Context%20Managers%20and%20Decorators.ipynb)
  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_01/Week%20%2301%20Task%2002%20-%20Object-Oriented%2C%20Functional%20Programming.ipynb) [Object-Oriented, Functional Programming](https://github.com/ivanovitchm/deeplearning/blob/main/week_01/Week%20%2301%20Task%2002%20-%20Object-Oriented%2C%20Functional%20Programming.ipynb)
-
+ - Git and Version Control [![Open in Dataquest](https://img.shields.io/badge/link-dataquest-green)](https://www.dataquest.io/course/git-and-vcs/)
+    - You'll learn how to: a) organize your code using version control, b) resolve conflicts in version control, c) employ Git and Github to collaborate with others.
+    - :facepunch: U1T1: guided project + getting a git repository.
 
 Weeks 02 & 03 - Fundamentals of Deep Learning [[Slide]](https://github.com/ivanovitchm/deeplearning/blob/main/weeks_02_03/Week%20%2302%20Introduction%20to%20Deep%20Learning%20and%20TensorFlow.pdf)
  - Outline [[Video]](https://www.loom.com/share/27073e30d3494ceab94c30f771d98903)
@@ -128,6 +130,130 @@ Week 11 - Transfer Learning [[Slide]](https://github.com/ivanovitchm/deeplearnin
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_11/Week_11.ipynb) [Transfer Learning hands on](https://github.com/ivanovitchm/deeplearning/blob/main/week_11/Week_11.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ivanovitchm/deeplearning/blob/main/week_11/Week_11_Cat_and_Dogs.ipynb) [Case Study: cats and dogs](https://github.com/ivanovitchm/deeplearning/blob/main/week_11/Week_11_Cat_and_Dogs.ipynb)
 
+-----
 
+## 🎓 ML & Deep Learning Course Notes
+
+Sharing course notes on all topics related to machine learning, NLP, and AI.
+
+### MIT 6.S191 Introduction to Deep Learning (2022) 
+[Website](http://introtodeeplearning.com/) | Lectures by: Alexander Amini and Ava Soleimany
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Deep Learning</td>
+    <td class="tg-yw4l">Basic fundamentals of neural networks and deep learning.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/7sB052Pz0sQ">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Intro-to-DL-d4929997a7a34a33a163cf40ba00360b">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">RNNs and Transformers</td>
+    <td class="tg-yw4l">Introduction to recurrent neural networks and transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/QvkQ1B3FBqA">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-2-Recurrent-Neural-Networks-and-Transformers-71fb3ba2a24f4b6c8cc77281fc19cfab">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Computer Vision</td>
+    <td class="tg-yw4l">Deep Neural Networks for Computer Vision.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/uapdILWYTzE">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-3-Deep-Computer-Vision-e43a17b50f7e4b5f8393c070b22340a3">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Generative Modeling</td>
+    <td class="tg-yw4l">Autoencoders and GANs.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/QcLlc9lj2hk">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-4-Deep-Generative-Modeling-928d24a5764d4bf1bcf5fb4c4234f6ac">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Deep Reinforcement Learning</td>
+    <td class="tg-yw4l">Deep RL key concepts and DQNs.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/-WbN61qtTGQ">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-5-Deep-Reinforcement-Learning-8ecc8b16a5ad4fcc81b5c3ceb21608b5">Notes</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Limitations and New Frontiers</td>
+    <td class="tg-yw4l">Limitations and New Frontiers in Deep Learning.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/wySXLRTxAGQ">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Autonomous Driving with LiDAR</td>
+    <td class="tg-yw4l">Autonomous Driving with LiDAR.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/NHZMfSMAHlo">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr> 
+      
+</table>
+
+### CS224N: Natural Language Processing with Deep Learning (2022) 
+[Website](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction and Word Vectors</td>
+    <td class="tg-yw4l">Introduction to NLP and Word Vectors.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/rmVRLeJRkl4">Video<a></td>
+    <td class="tg-yw4l"><a href="https://dair-ai.notion.site/Lecture-1-Introduction-and-Word-Vectors-afdc392dd83e44faab91f7c1b8f563a0">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Neural Classifiers</td>
+    <td class="tg-yw4l">Neural Classifiers for NLP.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/gqaHkPEZAew">Video<a></td>
+    <td class="tg-yw4l"><a href="https://github.com/dair-ai/ML-Course-Notes/issues/4">WIP</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
+
+### CS25: Transformers United
+[Website](https://web.stanford.edu/class/cs25/) | Instructors: Div Garg, Chetanya Rastogi, Advay Pal
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Lecture</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Video</b></th>
+    <th class="tg-yw4l"><b>Notes</b></th>
+    <th class="tg-yw4l"><b>Author</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">Introduction to Transformers</td>
+    <td class="tg-yw4l">A short summary of attention and Transformers.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/P127jhj-8-Y">Video<a></td>
+    <td class="tg-yw4l"><a href="https://www.notion.so/dair-ai/Introduction-to-Transformers-4b869c9595b74f72b088e5f2793ece80">Notes :new:</a></td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Transformers in Language: GPT-3, Codex</td>
+    <td class="tg-yw4l">The development of GPT Models including GPT3.</td>
+    <td class="tg-yw4l"><a href="https://youtu.be/qGkzHFllWDY">Video<a></td>
+    <td class="tg-yw4l">WIP</td>
+    <td class="tg-yw4l"><a href="https://twitter.com/omarsar0">Elvis<a></td>
+  </tr>
+</table>
 
 
