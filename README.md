@@ -1,8 +1,4 @@
-# Universidade Federal do Rio Grande do Norte
-
-## Instituto Metrópole Digital
-
-### IMD1114 - Deep Learning
+# IMD1114 - Deep Learning
 
 ### Referências
 
