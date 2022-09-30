@@ -1,5 +1,13 @@
 # IMD1114 - Deep Learning
 
+Repositório para a matéria de Deep Learning UFRN
+
+# Tópicos
+
+#### Week 02 03
+
+#### Week 04 05
+
 ### Referências
 
 - :books: Adrian Rosebrock. Deep Learning for Computer Vision with Python [[Link]](https://www.pyimagesearch.com/)
