@@ -2,11 +2,15 @@
 
 Repositório para a matéria de Deep Learning UFRN
 
-# Tópicos
+# Atividades
 
-#### Week 02 03
+## Estudo Dirigido 01
 
-#### Week 04 05
+- 10 questões teóricas
+
+- Notebooks week_01
+
+- Notebooks Better Leraning e Better Generalization
 
 ### Referências
 
